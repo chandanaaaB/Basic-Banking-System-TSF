@@ -12,7 +12,7 @@
 ## Flow of the website:
 Home > View Customer > Select One Customer > Transfer Money > View Transcation > Home
 
-## Screenshots for the website:
+## Screenshots of the website:
 
 <img width="904" alt="Screenshot 2023-03-16 180101" src="https://user-images.githubusercontent.com/116903773/225618500-bdad3d8f-60d1-4d3b-a305-7a38bb9a17c3.png">
 
